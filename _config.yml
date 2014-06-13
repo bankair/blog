@@ -1,8 +1,9 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Polymérisation des concepts
+email: alexandre@followanalytics.com
+description: "Les réflexions d'un rubyiste heureux..."
 baseurl: ""
+username: bankair
 url: "http://yourdomain.com"
 
 # Build settings
