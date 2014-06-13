@@ -4,7 +4,6 @@ layout: default
 
 <div class="home">
   {% for post in site.posts limit:1 %}
-  <h1>{{ post.title }}</h1>
   {{ post.content }} 
   {% endfor %}
   <h1>Articles précédents</h1>
