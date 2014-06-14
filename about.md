@@ -12,3 +12,5 @@ Senior software engineer @ Follow Analytics
 
 Happy rubyiste
 
+Précédemment: C++ / C# / Shell / Unix / Perl
+
