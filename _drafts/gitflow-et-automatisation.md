@@ -3,9 +3,6 @@ layout: post
 title: Gitflow et automatisation
 ---
 
-Gitflow et automatisation
-==========
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed velit odio. Integer dignissim congue tincidunt. Mauris condimentum, dui et vestibulum gravida, sapien nisl rhoncus arcu, ullamcorper adipiscing ipsum est non nisi. Phasellus vehicula, ante in viverra adipiscing, quam dui dictum odio, et eleifend lorem odio non nisi. Aenean ligula nulla, rhoncus sed lacus quis, malesuada tristique mi. Maecenas commodo eros quis dui euismod fringilla. Morbi tristique neque vitae mollis cursus. Morbi sed tincidunt nulla. Sed tincidunt purus at urna lacinia pulvinar. Praesent lobortis lobortis lorem, sed congue magna fringilla facilisis. In ut lectus vel augue laoreet egestas sit amet nec quam.
 
 Duis nec massa et arcu fringilla mollis nec sit amet risus. Fusce non turpis pellentesque, adipiscing mauris in, luctus nisi. Ut ac gravida dui. Sed dictum adipiscing leo ac pellentesque. Curabitur pretium dui vitae rhoncus pretium. Morbi sed nisl sed quam vestibulum tincidunt sit amet at nunc. Nunc vel dictum ante. Aenean aliquam mauris sit amet semper pharetra. Fusce eget ipsum vel neque consequat ornare sed non est. Nulla fringilla ac mauris eu elementum. Proin consequat massa lectus, ut fringilla magna ultricies ut. Vivamus eget nunc vitae nisl laoreet bibendum aliquet id orci.

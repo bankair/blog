@@ -2,34 +2,27 @@
 layout: default
 ---
 <!-- Last post -->
-<div class="home">
+<div class="post">
   {% for post in site.posts limit:1 %}
-  {{ post.content }} 
+    <header class="post-header">
+      <h1>{{ post.title }}</h1>
+      <p class="meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+    </header>
+    {{ post.content }} 
   {% endfor %}
 </div>
 
 <!-- 10 previous posts list -->
-<div id="previous_posts" class="site-nav">
+<div id="previous_posts" class="menu-list">
   <h1>Articles précédents</h1>
   <ul class="posts">
     {% for post in site.posts offset:1 limit:10 %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} - 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
-      </li>
+    <li>
+    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} - 
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+    </li>
     {% endfor %}
   </ul>
+  <a href="archives/">Tous les articles</a>
 </div>
 
-<!-- 10 related posts -->
-<div id="related_posts" class="menu_list">
-  <h1>Articles en rapport</h1>
-  <ul class="posts">
-    {% for post in site.related_posts offset:1 limit:10 %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
