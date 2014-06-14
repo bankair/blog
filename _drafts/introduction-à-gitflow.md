@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Gitflow et automatisation
+title: Introduction à gitflow
 ---
-
-Gitflow et automatisation
-==========
+Introduction à gitflow
+======================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed velit odio. Integer dignissim congue tincidunt. Mauris condimentum, dui et vestibulum gravida, sapien nisl rhoncus arcu, ullamcorper adipiscing ipsum est non nisi. Phasellus vehicula, ante in viverra adipiscing, quam dui dictum odio, et eleifend lorem odio non nisi. Aenean ligula nulla, rhoncus sed lacus quis, malesuada tristique mi. Maecenas commodo eros quis dui euismod fringilla. Morbi tristique neque vitae mollis cursus. Morbi sed tincidunt nulla. Sed tincidunt purus at urna lacinia pulvinar. Praesent lobortis lobortis lorem, sed congue magna fringilla facilisis. In ut lectus vel augue laoreet egestas sit amet nec quam.
 

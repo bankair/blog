@@ -1,19 +1,35 @@
 ---
 layout: default
 ---
-
+<!-- Last post -->
 <div class="home">
   {% for post in site.posts limit:1 %}
   {{ post.content }} 
   {% endfor %}
+</div>
+
+<!-- 10 previous posts list -->
+<div id="previous_posts" class="site-nav">
   <h1>Articles précédents</h1>
   <ul class="posts">
     {% for post in site.posts offset:1 limit:10 %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} - 
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<!-- 10 related posts -->
+<div id="related_posts" class="menu_list">
+  <h1>Articles en rapport</h1>
+  <ul class="posts">
+    {% for post in site.related_posts offset:1 limit:10 %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

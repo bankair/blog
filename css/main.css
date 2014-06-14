@@ -16,7 +16,7 @@ body {
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+/* h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; } */
 
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
@@ -151,14 +151,14 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
+  font-size: 14px;
   letter-spacing: -1px;
   line-height: 1;
 }
 
 .posts .post-date {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   color: #818181;
 }
 
