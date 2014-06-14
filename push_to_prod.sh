@@ -1,2 +1,2 @@
 git push
-ssh dedibox 'cd blog; ./pull_and_build.sh'
+ssh -t dedibox 'cd blog; bash ./pull_and_build.sh'
