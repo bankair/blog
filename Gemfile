@@ -1,2 +1,1 @@
-gem 'capistrano'
 gem 'jekyll'
