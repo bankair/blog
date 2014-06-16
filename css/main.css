@@ -165,6 +165,7 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
+.menu-list-entry { list-style-type: none; }
 
 /* Post styles */
 /* ----------------------------------------------------------*/

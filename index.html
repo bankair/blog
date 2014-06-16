@@ -15,7 +15,7 @@ layout: default
 <!-- 10 previous posts list -->
 <div id="previous_posts" class="menu-list">
   <h1>Articles précédents</h1>
-  <ul class="posts">
+  <ul class="menu-list-entry">
     {% for post in site.posts offset:1 limit:10 %}
     <li>
     <span class="post-date">{{ post.date | date: "%b %-d, %Y" }} - 
