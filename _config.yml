@@ -9,4 +9,4 @@ url: "http://polymerisation-des-concepts.fr"
 # Build settings
 markdown: kramdown
 permalink: pretty
-#highlighter: rouge
+exclude: ['Gemfile', 'Gemfile.lock', 'pull_and_build.sh', 'push_to_prod.sh']
