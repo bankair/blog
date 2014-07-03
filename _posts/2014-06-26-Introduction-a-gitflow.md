@@ -77,7 +77,7 @@ J'en conviens, la feature branch ne règle pas tout. Il nous reste encore à sav
 
 Et soudain est apparu, sur son fidèle destrier, [Vincent Driessen](http://nvie.com/) et son [successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/):
 
-![gitflow](http://nvie.com/img/2009/12/Screen-shot-2009-12-24-at-11.32.03.png "Gitflow")
+![gitflow](./images/gitflow.png "Gitflow")
 
 Ce modèle de développement s'appuie sur deux branches principales:
 
