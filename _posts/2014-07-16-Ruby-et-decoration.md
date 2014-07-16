@@ -81,7 +81,7 @@ class MoumoutteDecorator < SimpleDelegator
 end
 {% endhighlight %}
 
-On peu ainsi composer à l'envie une Citron avec option disco (notez le passage de citron au constructeur du décorateur):
+On peut ainsi composer à l'envie une Citron avec option disco (notez le passage de citron au constructeur du décorateur):
 
 {% highlight ruby %}
 disco_citron = DiscoDecorator.new(citron)
