@@ -286,6 +286,6 @@ Les avantages de cette méthode sont relativement évidents (lisibilité, délé
 
 Ce petit article est loin d'avoir fait le tour du sujet de l'implémentation du pattern décorateur en ruby. J'espère néanmoins qu'il aura eu le mérite de faire découvrir quelque chose à certains d'entre vous.
 
-Pour les plus curieux, il est possible de télécharger le [fichier ruby qui a servi à l'élaboration de cet article.](citron.rb).
+Pour les plus curieux, il est possible de télécharger le [fichier ruby qui a servi à l'élaboration de cet article.](http://polymerisation-des-concepts.fr/citron.rb).
 
 N'hésitez pas à me pinger sur [twitter](https://twitter.com/bankair) en cas de question ou remarques.
