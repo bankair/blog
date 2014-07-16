@@ -110,7 +110,7 @@ disco_moumoutte_citron.klaxonne # Affiche 'Honk !'
 
 ## Implémentation générique des options
 
-On peu aussi imaginer créer une classe générique OptionDecorator, qui va hériter de SimpleDelegator:
+On peut aussi imaginer créer une classe générique OptionDecorator, qui va hériter de SimpleDelegator:
 
 {% highlight ruby %}
 class OptionDecorator < SimpleDelegator
