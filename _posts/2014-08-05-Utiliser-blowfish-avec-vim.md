@@ -5,7 +5,7 @@ title: Utiliser blowfish pour chiffrer ses fichiers avec vim
 
 Si vous êtes en train de lire cette page, c'est que vous avez accès à internet (ou bien qu'en psychopathe a imprimé le contenu de ce blog, ce qui est à la fois hautement improbable et assez terrifiant).
 
-Si vous avez accès à internet (je mets de coté la deuxième hypothèse qui me met légèrement mal à l'aise), ce que vous êtes aussi l'heureux propriétaire d'une jolie tripotée de couples login/password vous permettant de vous connecter à tous les services que vous utilisez (facebook, github, twitter, wikipédia, pinterest, etc etc).
+Si vous avez accès à internet (je mets de coté la deuxième hypothèse qui me met légèrement mal à l'aise), c'est que vous êtes aussi l'heureux propriétaire d'une jolie tripotée de couples login/password vous permettant de vous connecter à tous les services que vous utilisez (facebook, github, twitter, wikipédia, pinterest, etc etc).
 
 Pour ne pas oublier ces couples login/password, j'ai été tenté de m'acheter un licence [1Password](https://agilebits.com/onepassword), mais le prix m'a rapidement découragé. J'en suis donc venu à utiliser une solutions combinant vim, blowfish et github.
 
