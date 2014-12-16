@@ -153,7 +153,7 @@ class Bar
   def fetch() Foo end
 end
 
-puts Bar.new.fetch.instance.foo
+puts Bar.new.fetch.foo.foo
 {% endhighlight %}
 
 Toi, rubyiste à l'oeil aguerri, tu as déjà remarqué plusieurs erreurs de conception ('un simplet-gleton ?'), de flow ('nan, mais elle est où, l'initialization ?') et de contrôle d'erreur ('un raise si nil, ça t'arracherait le postrulum ?'). En ce qui me concerne, je suis plutôt flemmard, ces derniers temps, alors je vais juste l'executer:
