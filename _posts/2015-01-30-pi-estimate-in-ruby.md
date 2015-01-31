@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Estimation de Pi en ruby multithread (Aka 'je cherche une raison de parler de la gem parallel')
+title: Estimation de Pi en ruby multithread
 ---
+
+_AKA j'ai envie de parler de la gem parallel_
 
 Aujourd'hui, j'avais envie de jouer avec la gem [parallel](https://github.com/grosser/parallel), qui permet d'effectuer des traitements en parallèle sur des collections sans se soucier de gérer l'ordonnancement de ses threads.
 
