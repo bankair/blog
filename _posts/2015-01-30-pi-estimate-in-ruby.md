@@ -71,7 +71,7 @@ user  0m24.559s
 sys   0m0.058s
 {% endhighlight %}
 
-On peut noter que le temps total d'exécution est tombé de 15.51 secondes à 4.32 secondes (mais que le temps user est lui monté de 15.47 secondes à 24.55 secondes, ce qui s'explique par le temps utilisé en plus pour gérer l'ordonnancement).
+On peut noter que le temps total d'exécution est tombé de 15.51 secondes à 4.32 secondes (mais que le temps user est lui monté de 15.47 secondes à 24.55 secondes).
 
 # Conclusion
 La gem parallel est un moyen rapide et efficace de facilement paralléliser des traitements en ruby. Néanmoins, suite à quelques essais avec des collègues, il est apparu que la gem pouvait poser des problèmes avec certaines ressources.
