@@ -96,7 +96,7 @@ On finit ainsi avec un fichier appart.csv qui contient tout le jeu de données q
 Une fois dans R, on charge le csv:
 
 {% highlight r %}
-appart_data = read.csv("appart_pantin.csv")
+appart_data = read.csv("appart.csv")
 {% endhighlight %}
 
 J'ai décidé à ce point de l'opération d'essayer de me débarrasser des artefacts. Pour cela, j'ai estimé que le prix au mètre carré était un bon indicateur:
@@ -108,10 +108,10 @@ appart_data$loyer_per_sm = appart_data$loyer_cc / appart_data$surface
 J'ai pu constater que la distribution ressemblait à une gaussienne callée sur un prix moyen au mètre carré avec un histogramme:
 
 {% highlight r %}
-hist(appart_data$loyer_per_sm
+hist(appart_data$loyer_per_sm)
 {% endhighlight %}
 
-![Exemple d'histogramme](images/histo.png)
+![Exemple d'histogramme](./images/histo.png)
 
 On peut ainsi se faire une première idée du prix au mètre carré dans le quartier (soit 24, au pifomètre, pour l'histogramme ci-dessus.
 
