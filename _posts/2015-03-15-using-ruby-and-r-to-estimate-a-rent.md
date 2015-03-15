@@ -111,7 +111,7 @@ J'ai pu constater que la distribution ressemblait à une gaussienne callée sur 
 hist(appart_data$loyer_per_sm)
 {% endhighlight %}
 
-![Exemple d'histogramme](./images/histo.png)
+![Exemple d'histogramme](http://polymerisation-des-concepts.fr/images/histo.png)
 
 On peut ainsi se faire une première idée du prix au mètre carré dans le quartier (soit 24, au pifomètre, pour l'histogramme ci-dessus.
 
