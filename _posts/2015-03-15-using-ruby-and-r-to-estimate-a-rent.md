@@ -7,6 +7,8 @@ _Attention: Papier pas du tout basé sur de vraies études scientifiques. En rev
 
 Aujourd'hui, le quidam moyen dispose d'assez peu de moyen pour savoir si son loyer est juste ou si il est hors marché.
 
+Je me suis posé la question de savoir comment résoudre ce problème. Vous pourrez trouver la méthode que j'ai employé dans cet article.
+
 # Ruby pour modéliser aisément ses données
 
 Première étape: constituer un jeu de données valable. Idéalement, il faudrait avoir les loyer, les qualités de tous les appartements dans le quartier dans lequel se situe le bien qu'on veut estimer.
