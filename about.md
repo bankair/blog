@@ -1,33 +1,56 @@
 ---
 layout: page
-title: A propos
+title: About me
 permalink: /about/
 ---
 
-# Qui suis-je ?
+# Who am I ?
 
-Mon nom est Alexandre Ignjatovic. Je suis né en 1980.
+Alexandre Ignjatovic
 
-Je travaille chez [Follow Analytics](http://followanalytics.com) depuis début 2014.
+French software engineer, born in 1980.
 
-J'ai fait du logiciel pendant une dizaine d'années auparavant, avec pour domaine métier la finance de marché. J'ai eu l'occasion de jouer avec: C++, C#, SQL, Perl, etc.
+Working at [Follow Analytics](http://followanalytics.com) since beginning of 2014 as technical lead.
 
-Aujourd'hui, les technologies que je manipule au quotidien sont: Ruby On Rails, AngularJS, MongoDB et redis.
+Previously working around 10 years in financial software craftmanship. Tried a lots of different things (managed/unmanaged C++, C#, a lot of SQL databases, Perl, Linux, Windows, .Net, etc.)
 
-# Pourquoi ce titre ?
+Those days, I'm:
 
-D'après [Wikipédia](http://fr.wikipedia.org/wiki/Polymérisation), la polymérisation est:
+* Designing data architecture (AWS Redshift, Redis, Postgres, Mongodb) and scalable software (Ruby/RoR)
+* Working hard to reduce our technical debt
+* Trying to share as much as possible with the dev team
 
-> La réaction chimique ou le procédé par lesquels des petites molécules [...] réagissent entre elles pour former des molécules de masses molaires plus élevées.
+I really like to design an produce systems that work and are able to scale. I'm deeply concerned when it comes to software maintainability, 
+
+Public accounts:
+
+* Twitter: [@bankair](https://twitter.com/bankair)
+* Github: [@bankair](https://github.com/bankair)
+* LinkedIn: [Alexandre Ignjatovic](https://fr.linkedin.com/pub/alexandre-ignjatovic/1/a43/bb0)
 
 
-On peut faire en parallèle entre la polymérisation et mon travail (architecture et développement logiciel), qui consiste à assembler des concepts simple pour construire des systèmes complexes.
+# What's that title ?
 
-# Des centres d'interêts ?
+In that title, [_Polymérisation_ (fr)](http://fr.wikipedia.org/wiki/Polymérisation) stands for [_polymerization_ (en)](http://en.wikipedia.org/wiki/Polymerization) (and _concept_... Well, it is the very same word in french and english ;)).
 
-Trop pour que j'ai le temps de tout faire, malheureusement ! Je suis:
+From Wikipedia, it can be read that:
 
-* Un toxophile convaincu qui répare son épaule en attendant septembre
-* Un lecteur pas très rapide, mais tenace
-* Un geek (Sans blague ? Est-ce encore une information en 2014 ?)
+> In polymer chemistry, polymerization is a process of reacting monomer molecules together in a chemical reaction to form polymer chains or three-dimensional networks.
 
+From my point of view, software craftmanship can be seen as the very same thing:
+
+> Aggregating small concepts to make larger systems (able to be aggregated as well in even larger systems).
+
+# hobbies ?
+
+Lots of. So many more than my free time allow it, sadly. When I find some time, I enjoy:
+
+* Archery
+* Books. All of them (technical, classical or contemporary, mangas... Anything I can get my hand on, actually)
+* Music. Quite a large range of it (classical, rock, Hip hop, Electro, folk, etc.)
+
+# Achievements ?
+
+* I managed to design and carry on a full backend migration from mongo to AWS Redshift in six months for an analytics platform
+* I designed and developed a working real time funnel calculation system based on AWS Redshift
+* I sewn a shirt. With sleeves. Yep, I'm that kind of a polymorph geek :)

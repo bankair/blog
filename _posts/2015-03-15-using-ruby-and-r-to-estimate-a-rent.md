@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estimer le prix de son loyer avec ruby et r
+title: Estimer le prix de son loyer avec Ruby et R
 ---
 
 _Attention: Papier pas du tout basé sur de vraies études scientifiques. En revanche, il n'a pas été testé sur des animaux._
