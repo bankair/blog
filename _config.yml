@@ -10,3 +10,5 @@ url: "http://polymerisation-des-concepts.fr"
 markdown: kramdown
 permalink: pretty
 exclude: ['Gemfile', 'Gemfile.lock', 'pull_and_build.sh', 'push_to_prod.sh']
+gem:
+  - jekyll-sitemap
