@@ -405,4 +405,4 @@ Les principes généraux que j'aime bien essayer de partager:
 1. nil n'est pas une information.
 2. nil est une absence d'information.
 3. Utiliser une valeur neutre autre que nil permet de faire la différence entre un contexte normal et anormal d'utilisation d'une méthode.
-4. Les NullObjects (allez lire [Much adob about naught](http://devblog.avdi.org/introduction-to-much-ado-about-naught/) si ce n'est pas déjà fait) sont vos amis.
+4. Les NullObjects (allez lire [Much ado about naught](http://devblog.avdi.org/introduction-to-much-ado-about-naught/) si ce n'est pas déjà fait) sont vos amis.
