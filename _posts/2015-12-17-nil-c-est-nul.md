@@ -287,7 +287,7 @@ Si vraiment vous devez utiliser une paramètre optionnel, avec une valeur neutre
 {% highlight ruby %}
   NO_REPEAT = :none_3863273382bb7fa0cf68f1e41bb8c788
   def print_name(name, repeat = NO_REPEAT)
-    if repeat = NO_REPEAT
+    if repeat == NO_REPEAT
       puts name
     else
       repeat.times { puts name }
