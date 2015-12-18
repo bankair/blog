@@ -260,7 +260,7 @@ La raison pour cela est simple. Imaginons que j'ai deux listes (théoriquement d
   name_list.zip(repeat_list).each { |n, r| print_name(n, r) }
 {% endhighlight %}
 
-C'est élégant, cela fait le job en tenant sur une ligne, mais que se passe-t-il si il y a une inconsistance au niveau des données ?
+C'est élégant, cela fait le job en tenant sur une ligne, mais que se passe-t-il si il y a une incohérence au niveau des données ?
 
 {% highlight ruby %}
   name_list = %w(alice bob)
