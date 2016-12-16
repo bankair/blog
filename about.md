@@ -10,17 +10,18 @@ Alexandre Ignjatovic
 
 French software engineer, born in 1980.
 
-Working at [Follow Analytics](http://followanalytics.com) since beginning of 2014 as technical lead.
+CTO of [Appaloosa](http://appaloosa.io).
+Previously Director of R&D at [Follow Analytics](http://followanalytics.com).
 
-Previously working around 10 years in financial software craftmanship. Tried a lots of different things (managed/unmanaged C++, C#, a lot of SQL databases, Perl, Linux, Windows, .Net, etc.)
+And before that, worked around 10 years in financial software craftmanship. Tried a lots of different things (managed/unmanaged C++, C#, a lot of SQL databases, Perl, Linux, Windows, .Net, etc.)
 
 Those days, I'm:
 
-* Designing data architecture (AWS Redshift, Redis, Postgres, Mongodb) and scalable software (Ruby/RoR)
-* Working hard to reduce our technical debt
-* Trying to share as much as possible with the dev team
+* Leading our technical team and being as helpful as possible.
+* Growing individuals into taking more responsibilities and leading them toward more autonomy.
+* Drawing and enforcing strong and efficient architecture and software design guidelines in order to manage to build a robust and performant solution, as a team.
 
-I really like to design an produce systems that work and are able to scale. I'm deeply concerned when it comes to software maintainability, 
+I really like to design an build scalable software and I'm deeply concerned when it comes to software maintainability, 
 
 Public accounts:
 
